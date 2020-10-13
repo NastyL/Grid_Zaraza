@@ -1,7 +1,13 @@
 :root {
     --bgc: rgb(233, 212, 145);
-    --txc: #fff;
+    --txc: rgb(34, 18, 44);
     --gap: 10px;
+  }
+
+  .h1.style-text {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30pt;
+    text-align: center;
   }
 
   body {
