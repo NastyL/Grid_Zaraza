@@ -1,0 +1,22 @@
+:root {
+    --bgc: rgb(233, 212, 145);
+    --txc: #fff;
+    --gap: 10px;
+  }
+
+  body {
+    background-color: var(--bgc);
+    color: var(--txc);
+  }
+
+  .maring {
+    margin: 10px;
+  }
+
+  .gap {
+    gap: var(--gap);
+  }
+  
+  .grid {
+    display: grid;
+  }
